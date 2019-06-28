@@ -15,5 +15,6 @@ public class Item {
 	private String name;
 	//数量
 	private Integer number;
-	//112345667	
+	//112345667
+	//000000000
 }
